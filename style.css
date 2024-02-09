@@ -278,9 +278,9 @@ body{
         border-radius: 38px;
     }
     #positionReaction_int1{
-        width: 30vw;  
+        left: 60vw;  
     }
     #positionReaction_int2{
-        width: 80vw; 
+        left: 67.5vw;
     }
 }
